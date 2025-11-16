@@ -1,4 +1,4 @@
-Indonesia Emas — Twitter/X Public Discourse Dataset
+Indonesia Emas Twitter/X Public Discourse Dataset
 
 This project compiles a dataset of public conversations on Twitter/X related to Indonesia Emas 2045, covering themes such as national development, digital transformation, education, economic outlook, and youth participation in shaping Indonesia’s future.
 
