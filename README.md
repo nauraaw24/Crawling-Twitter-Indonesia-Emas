@@ -3,13 +3,13 @@ Indonesia Emas Twitter/X Public Discourse Dataset
 This project compiles a dataset of public conversations on Twitter/X related to Indonesia Emas 2045, covering themes such as national development, digital transformation, education, economic outlook, and youth participation in shaping Indonesia’s future.
 
 Developed by:
-1. CAHYA ALAM PRAPTAMA               2304220006
-2. MUHAMAD ABDUL QODIR DANI          2304220016
-3. GIFARI ZIGLAR AL BARA             2304220025
-4. VINA HARTOYO                      2304220033
-5. AULIA PUTRI ANDINI                2304220035
-6. NAURA AISWARYA ASRI WICAKSONO     2304220037
-7. KEVIN NOVANDA PUTRA               2304220042
+1. CAHYA ALAM PRAPTAMA               
+2. MUHAMAD ABDUL QODIR DANI        
+3. GIFARI ZIGLAR AL BARA             
+4. VINA HARTOYO                      
+5. AULIA PUTRI ANDINI                
+6. NAURA AISWARYA ASRI WICAKSONO     
+7. KEVIN NOVANDA PUTRA               
 
 A. Project Purpose
 
