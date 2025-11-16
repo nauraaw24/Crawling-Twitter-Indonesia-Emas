@@ -31,7 +31,9 @@ B. Key Features
 C. Repository Structure
 
 ├── KELOMPOK 5 PMML CRAWLING.ipynb   # Main notebook for scraping workflow
+
 ├── indonesia_emas.txt               # Raw text dataset
+
 └── README.md                        # Project documentation
 
 D. Possible Extensions
